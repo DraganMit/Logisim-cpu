@@ -1,4 +1,4 @@
-# logisim-cpu
+# Logisim-cpu
 
 8-bit computer architecture and organization simulation from scratch in Logisim.
 
